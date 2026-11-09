@@ -1,0 +1,44 @@
+===================================== Phone Service ===========================================================
+------------------------------------- Xizmat turlari: ---------------------------------------------------------
+1. Telefon sotib olish
+2. Telefon sotib yuborish
+3. Telefon tuzatish
+
++++++++++++++++++++++++++++++++++++++ Telefon sotib olish +++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ Iltimos sotib olmoqchi bo'lgan telefon modelingizni tanlang:
+ 1. Iphone
+ 2. Redmi
+ 3. Samsung
+
+ 0. Ortga qaytish
+
+                                   1. Iphone 16 narxi: 1300$
+                                   2. Redmi 14 narxi: 700$
+                                   3. Samsung S24 narxi: 1000$
+
+                                   0. Orqaga
+
+ ++++++++++++++++++++++++++++++++++++ Telefon sotib yuborish ++++++++++++++++++++++++++++++++++++++++++++++++++++
+ Iltimos sotib yubormoqchi bo'lgan telefon modelingizni tanlang:
+ 1. Iphone
+ 2. Redmi
+ 3. Samsung
+
+ 0. Ortga qaytish
+                                   1. Iphone 16 narxi: 1100$
+                                   2. Redmi 14 narxi: 500$
+                                   3. Samsung S24 narxi: 800$
+
+                                   4. Ortga
+ ++++++++++++++++++++++++++++++++++++ Telefon tuzatish +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ Iltimos tuzatish kerak bo'lgan telefon modelingizni tanlang:
+ 1. Iphone
+ 2. Redmi
+ 3. Samsung
+                                    1. Iphone: Ekran almashtirish 100$
+                                    2. Redmi: Yangi batareya qo'shish
+                                    3. Samsung: Aksessuar almashtirish
+
+                                    0. Orqaga
+ 0. Ortga qaytish
